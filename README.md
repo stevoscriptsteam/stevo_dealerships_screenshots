@@ -1,2 +1,1 @@
-# stevo_dealerships_screenshots
-Screenshotting tool for stevo_dealerships
+Just simply add all of the cars without pictures into the config.lua and they will be outputted in the correct format to be added back.

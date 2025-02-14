@@ -1,0 +1,2 @@
+# stevo_dealerships_screenshots
+Screenshotting tool for stevo_dealerships
